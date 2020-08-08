@@ -7,4 +7,5 @@ batch/olap graph system;
     * The *SGF* builds internal index and aggregate statistics, so it could support efficient predicate pushdown and
      optimized aggregate;
     * The *SGF* support time-traversal in graph 
- 
+* our file format like this: ![sgf](https://github.com/learn2Pro/draw_io_save/blob/master/graph/sgf_infr.svg
+), inspired by [orc](https://github.com/apache/orc)
